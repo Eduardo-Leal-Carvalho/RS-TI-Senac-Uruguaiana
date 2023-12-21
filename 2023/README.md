@@ -5,13 +5,15 @@
 - Site de notícias sobre games - MURILO
 - Jogo sobre Uruguaiana - JOÃO
 - Site de adoção de cachorros -IZADORA, RAYSSA E MARIA
-- Site e forúm para mães solteiras - MAYARA
+- Site de apoio para mães - MAYARA
 - Wiki sobre jogos - RODRIGO
 
 
-# NOME DO MELHOR PROJETO POR VOTAÇÃO DA TURMA
-O projeto ZZZ 
-Integrantes: 
+### MELHOR PROJETO POR VOTAÇÃO DA TURMA
+O projeto ZZZZZZZZZZZZ foi o melhor projeto de 2023 selecionado pela turma
+
+Integrantes:
+ 
 Proposta:
 
 
