@@ -1,4 +1,4 @@
-# NOME DO PROJETO
+# Site de notícias sobre games
 Integrantes: 
 Proposta: 
 
