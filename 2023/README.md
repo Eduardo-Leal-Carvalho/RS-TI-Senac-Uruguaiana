@@ -15,7 +15,7 @@ Integrantes:
 Proposta:
 
 
-##RS TI TRILHA 2
+### RS TI TRILHA 2
 - Lógica de Programação - 60h
 - HTML e CSS criação de Websites - 36h
 - Programação Java Back End - 108h
